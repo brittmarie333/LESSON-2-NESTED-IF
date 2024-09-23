@@ -1,0 +1,3 @@
+#Based on your corrected code from Task 1, expand the game. 
+# If the user chooses "cave", ask them if they want to "light a torch" or 
+# "proceed in the dark", and provide outcomes for each decision.
